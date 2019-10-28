@@ -1,0 +1,13 @@
+{
+	"name": "resizefn",
+	"version": "1.0.0",
+	"description": "resize image function",
+	"main": "func.js",
+	"author": "mee-nam lee",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": "0.0.15",
+		"http-signature": "^1.2.0",
+		"sharp": "^0.22.1"
+	}
+}
